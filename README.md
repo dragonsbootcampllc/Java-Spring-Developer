@@ -1,0 +1,21 @@
+# Java Spring Developer
+
+- Data Types and Variables (1)
+- Operator and Expressions (1)
+- String Class (1)
+- Conditional Statements and Loops (1)
+- OOPs Concept in Depth (4)
+- Multithreading (1)
+- JAVA IO Streams (1)
+- Collection Framework (3)
+- TASK (150)S
+-SOLID principles in java (2)
+- JavaFX (3)
+- Java Swing (3)
+- SQL Database (3)
+- projects(6-8)
+- git & GitHub (2)
+- DataStructure (4-5)
+- Algorithms (3-4)
+- Spring core
+- Spring Boot
