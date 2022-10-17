@@ -9,7 +9,7 @@
 - JAVA IO Streams (1)
 - Collection Framework (3)
 - TASK (150)S
--SOLID principles in java (2)
+- SOLID principles in java (2)
 - JavaFX (3)
 - Java Swing (3)
 - SQL Database (3)
