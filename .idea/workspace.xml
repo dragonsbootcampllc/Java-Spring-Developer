@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d32aa916-be24-43bd-a382-dd5360713cfb" name="Changes" comment="V1.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d32aa916-be24-43bd-a382-dd5360713cfb" name="Changes" comment="V1.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676104072502</updated>
       <workItem from="1676104075757" duration="42000" />
-      <workItem from="1676105414532" duration="849000" />
+      <workItem from="1676105414532" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="V1.1">
       <created>1676105852829</created>
@@ -69,11 +66,29 @@
       <option name="project" value="LOCAL" />
       <updated>1676106158116</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="V1.1">
+      <created>1676106284166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676106284166</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1.1" />
