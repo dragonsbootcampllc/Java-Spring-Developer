@@ -1,7 +1,9 @@
 # Software.
+
 * Software refers to a set of instructions or programs that tell a computer what to do and how to do it.
 * It can include operating systems, applications, games, and more.
-* Software can be either proprietary (i.e., owned and controlled by an individual or company) or open source (i.e., freely available for use and modification by anyone).
+* Software can be either proprietary (i.e., owned and controlled by an individual or company) or open source (i.e.,
+  freely available for use and modification by anyone).
 
 ## Software Engineering.
 
